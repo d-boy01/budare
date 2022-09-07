@@ -9,19 +9,11 @@ Comprises of Html & Css :-
 + Stay curious
 
 + You got this and ignore the naysayer
-which are: 
 
-    + the ususal youan't do this talks 
-    + the ususal blah blah blah
-    + the ususal it's not been done 
-    + the ususal you're not smart enough
 
-+ Get used to using google alot
-+ Take it easy on yourself and drink water
 
-``` js
 
-const zee = function(bread){
+#### Check out my page and be insipired
 
-  return "bread is life"
-}
+
+[Form Page](https://d-boy01.github.io/budare/)
